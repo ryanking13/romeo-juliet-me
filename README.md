@@ -2,6 +2,10 @@
 
 2016 UPnL GameJam project
 
+## Requirements
+
+- Processing 3.x
+
 ## Goal
 
 Do not let Romeo and Juliet become closer
